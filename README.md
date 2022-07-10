@@ -14,7 +14,7 @@ The purpose of this project is to classify whether the image is cat or dogs.
 - TensorFlow
 
 ## Project Description
-This project is create to classify the images of cat or dog, at this project the Data comes from Dicoding Academy Datasets. This project is have accuracy of training at 83% and validation accuracy at 80% after few epochs because at this project,i use callbacks which the lowest accuracy acceptance is 80%.
+This project is create to classify the images of cat or dog, at this project the Data comes from Kaggle Dataset. This project is have accuracy of training at 85% and validation accuracy at 83% after few epochs because at this project,i use callbacks which the lowest accuracy acceptance is 80%.
 The goals in this project is how to create a neural network model that can predict or classify the cat or dog image with high accuracy.
 
 ## Needs of this project
